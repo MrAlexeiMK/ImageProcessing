@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace StereoStructure
+namespace ImageProcessing
 {
     public struct Color
     {
